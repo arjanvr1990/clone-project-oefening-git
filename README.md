@@ -28,3 +28,4 @@ Zorg ervoor dat de tekst in de footer word voorzien van een copyright-teken. Geb
 
 ## Opdracht 2: tooltip
 Maak met behulp van pseudo-elementen een tooltip (een soort praatwolkje) met daarin de tekst `Dit is een latijns woord`. Deze tooltip moet precies in het midden van de `<span class="highlight">`-tag zweven. De tooltip mag alleen verschijnen als de gebruiker met de muis over het woord beweegt. Tip: zorg ervoor dat de tooltip ook in het midden van het woord zal blijven staan als het woord ineens twee keer zo lang blijkt te zijn, zoals `hottentottententententoonstelling`.
+# clone-project-oefening-git
